@@ -1,42 +1,53 @@
-# Привет! 👋 Я Александр
+# 👋 Привет, я Александр Горностаев
 
-🎓 Студент **Владимирского государственного университета** (ВлГУ)  
-💻 Увлекаюсь **DevOps**, **Python**, **контейнеризацией** и **облачными технологиями**  
-🚀 Стремлюсь автоматизировать всё, что можно автоматизировать
+[![Age](https://img.shields.io/badge/Age-19-blue)](https://github.com/your-username)
+[![City](https://img.shields.io/badge/City-Владимир-purple)](https://github.com/your-username)
+[![Telegram](https://img.shields.io/badge/Telegram-@OlivkL-blue?logo=telegram)](https://t.me/OlivkL)
 
----
-
-## 🛠️ Мой стек
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🎓 Студент **Владимирского государственного университета (ВлГУ)**  
+💻 Специальность: *Фундаментальная информатика и информационные технологии* (ИИТЭ, до 2028 г.)  
+🔧 Фокус: **DevOps**, автоматизация, CI/CD, облачные технологии и контейнеризация  
+🚀 Мечтаю строить надёжные и масштабируемые инфраструктуры как код
 
 ---
 
-## 📌 Сейчас работаю над
+## 📌 О себе
 
-- [DevOps Practice Project](https://github.com/ваш-логин/devops-practice) – полный цикл: Flask → Docker → K8s → Prometheus → Terraform
-- Изучаю GitLab CI/CD и GitHub Actions
+Студент с неоконченным профильным образованием, сфокусированный на изучении **методологий DevOps**.  
+Обладаю уверенными знаниями ОС Linux, сетевой диагностики и принципов работы контейнеризированных приложений.  
+Понимаю концепции **ACID** в базах данных и **IaC** в управлении серверами.  
+Ответственно подхожу к вопросам мониторинга систем.  
+Нацелен на профессиональное развитие в области автоматизации доставки кода и облачных технологий.
 
----
-
-## 📈 Моя статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-логин&layout=compact&theme=radical)
-
----
-
-## 📫 Как со мной связаться
-
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- ВК: [ссылка на ВК]
-- Email: ваша_почта@example.com
+📝 Пишу статьи про компьютерные сети и IT:  
+➡️ [Мой канал на Дзене](https://dzen.ru/id/69dcd5475151071d550b8f30)
 
 ---
 
-✨ *«Инфраструктура как код – не просто модное слово, а мой подход к работе»*
+## 🛠️ Технологии и инструменты
+
+| Категория | Технологии |
+|-----------|-------------|
+| **ОС** | Linux (Ubuntu, Debian), Bash |
+| **Контейнеризация и оркестрация** | Docker, CI/CD, Kubernetes (в процессе) |
+| **Сети и протоколы** | TCP/IP, OSI, DNS, SSH, FTP, Wireshark |
+| **Базы данных** | PostgreSQL, понимание ACID |
+| **DevOps практики** | IaC, CI/CD, мониторинг, Git |
+| **Языки и инструменты** | C#, SQL, API (Postman), Git, GitHub |
+| **Soft skills** | Деловая коммуникация, ответственность |
+
+---
+
+## 📫 Контакты
+
+- **Telegram**: [@OlivkL](https://t.me/OlivkL) (предпочтительный способ)
+- **Email**: [qalex3090@gmail.com](mailto:qalex3090@gmail.com)
+- **ВК**: [ссылка на ВК](https://vk.com/aleksandr957)
+
+## 🎯 Цели на ближайшее время
+
+- Пройти стажировку или получить проектную работу в DevOps-команде
+- Углубиться в Kubernetes и Terraform
+- Автоматизировать развёртывание своих pet-проектов через GitHub Actions
+
+---
